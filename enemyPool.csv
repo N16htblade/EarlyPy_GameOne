@@ -1,0 +1,17 @@
+id,enemyName,enemyHealth,enemyDamage
+1,Goblin Worker,2,2
+2,Goblin Warrior,4,4
+3,Goblin Spear Thrower,6,6
+4,Goblin Corrupted Mage,8,8
+5,Goblin King,10,10
+6,Undead Skeleton,12,12
+7,Undead Warrior,14,14
+8,Undead Mage,16,16
+9,Undead Knight,18,18
+10,Undead Lich King,20,20
+11,Orc Peasant,22,22
+12,Orc Hound,24,24
+13,Orc Axe Thrower,26,26
+14,Orc Warrior,28,28
+15,Orc Chief Warrior,30,30
+16,Demon Lord,90,45
